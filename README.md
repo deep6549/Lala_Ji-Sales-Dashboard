@@ -168,7 +168,4 @@ Monthly and quarterly analysis makes it easier to identify sales patterns and ch
 # 6. Screenshots / Demo
 
 ### 📸 Dashboard Preview
-
-Add your main Power BI dashboard screenshot here:
-
-**``**
+i[Dashboard Preview](https://github.com/deep6549/Lala_Ji-Sales-Dashboard/blob/main/image.png)
