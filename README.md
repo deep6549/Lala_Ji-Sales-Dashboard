@@ -171,23 +171,4 @@ Monthly and quarterly analysis makes it easier to identify sales patterns and ch
 
 Add your main Power BI dashboard screenshot here:
 
-**`dashboard.png`**
-
-> The dashboard provides an interactive overview of e-commerce performance through KPI cards, sales trends, regional analysis, customer performance, product profitability, category distribution, and payment-mode analysis.
-
-### 🎥 Dashboard Demo
-
-A short screen recording or GIF can also be added to demonstrate:
-
-1. Selecting a city from the filter.
-2. Changing the quarter.
-3. Observing KPI changes.
-4. Exploring state-wise sales.
-5. Comparing product sub-category profits.
-6. Analyzing customer and payment-mode performance.
-
----
-
-## 📌 Key Skills Demonstrated
-
-**Power BI • Power Query • DAX • Data Cleaning • Data Transformation • Data Modeling • Data Visualization • KPI Development • Business Intelligence • Exploratory Data Analysis • Interactive Dashboards**
+**``**
