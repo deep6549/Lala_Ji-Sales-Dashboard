@@ -168,4 +168,4 @@ Monthly and quarterly analysis makes it easier to identify sales patterns and ch
 # 6. Screenshots / Demo
 
 ### 📸 Dashboard Preview
-! [Dashboard Preview](https://github.com/deep6549/Lala_Ji-Sales-Dashboard/blob/main/image.png)
+![Dashboard Preview](https://github.com/deep6549/Lala_Ji-Sales-Dashboard/blob/main/image.png)
